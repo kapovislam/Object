@@ -1,7 +1,7 @@
 public class Author {
 
-    public String firstName;
-    public String lastName;
+    private String firstName;
+    private String lastName;
 
 
     public Author(String firstName, String lastName) {
